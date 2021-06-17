@@ -1,4 +1,4 @@
-Python scripts for scraping data from indeed and preparing it for analysis
+Python jupyter notebook scripts for scraping data from indeed and preparing it for analysis
 --------------------------------------------------------------------------
 
   IndeedWebScrape scrapes data and stores it into a mongoDB
