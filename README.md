@@ -1,2 +1,1 @@
-# IndeedJobScraping
-Scraping data from indeed and preparing it for analysis
+Python scripts for scraping data from indeed and preparing it for analysis
